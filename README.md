@@ -1,7 +1,7 @@
-Student Admission Eligibility Notification 📧
+# Student Admission Eligibility Notification 📧
 
 
-Introduction:
+# Introduction:
 
 In this project,
 I developed a Python script that automates the process of notifying students about their admission eligibility via email.📊
